@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# QRify 🔗  
+A modern, responsive QR Code Generator built using **Next.js** with a clean UI and day/night background modes.
 
-## Getting Started
+---
 
-First, run the development server:
+## 🌐 Live Demo
+👉 https://qrify.vercel.app  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 🔤 Generate QR codes from any text or URL  
+- 🎨 Customize QR color, background color, and label text color  
+- 🖼️ Add a logo inside the QR code  
+- 📏 Adjustable QR size using slider  
+- 🌞 Day mode with cloud sky background  
+- 🌙 Night mode with starry sky background  
+- ⬇️ Download QR code as PNG  
+- 📱 Fully responsive layout  
+- ⚡ Built with modern Next.js App Router  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🛠️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- **Framework:** Next.js (App Router)
+- **Frontend:** React, TypeScript
+- **Styling:** Tailwind CSS
+- **QR Generation:** qrcode.react
+- **Image Export:** html-to-image
+- **Deployment:** Vercel
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+⭐ If you like this project, give it a star!
