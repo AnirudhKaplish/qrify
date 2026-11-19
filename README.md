@@ -5,7 +5,7 @@ QRify is a **modern, responsive QR Code Generator** built with **Next.js**, feat
 ---
 
 ## 🌐 Live Demo
-🚀 **Try it here:** 👉 [https://qrify-woad.vercel.app/](https://qrify-woad.vercel.app/)
+🚀 **Try it here:** 👉 [https://anirudhkaplish.github.io/qrify/](https://anirudhkaplish.github.io/qrify/)
 
 ---
 
@@ -29,7 +29,7 @@ QRify is a **modern, responsive QR Code Generator** built with **Next.js**, feat
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **QR Engine:** [qrcode.react](https://www.npmjs.com/package/qrcode.react)
 - **Image Processing:** [html-to-image](https://www.npmjs.com/package/html-to-image)
-- **Deployment:** [Vercel](https://vercel.com/)
+- **Deployment:** [GitHub Pages](https://pages.github.com/)
 
 ---
 
